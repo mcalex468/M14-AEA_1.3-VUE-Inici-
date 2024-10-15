@@ -96,6 +96,7 @@ const mostrar = ref('');
 body {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 
